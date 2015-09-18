@@ -1,0 +1,2 @@
+# EkstraksiCitra
+Ekstraksi Citra Satelit
